@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Motorsteuerung</string>
+    
+    <string-array name="speed">
+        <item>Langsam</item>
+        <item>Mittel</item>
+        <item>Schnell</item>
+    </string-array>
 </resources>

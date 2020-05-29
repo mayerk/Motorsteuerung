@@ -6,4 +6,7 @@
     <color name="ActivityHeadingColor">#1f1f1f</color>
     <color name="ActivityBackgroundColor">#242424</color>
     <color name="white">#ffffff</color>
+    <color name="headerColor">#1f1f1f</color>
+    <color name="grey">#757575</color>
+    <color name="dark">#171717</color>
 </resources>
